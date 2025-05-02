@@ -1,0 +1,13 @@
+prefix=/home/sourabh-singh/Data Science/Data-Science-Journey/Python-for-everybody/venv
+exec_prefix=/home/sourabh-singh/Data Science/Data-Science-Journey/Python-for-everybody/venv
+libdir=/home/sourabh-singh/Data Science/Data-Science-Journey/Python-for-everybody/venv/lib
+sharedlibdir=/home/sourabh-singh/Data Science/Data-Science-Journey/Python-for-everybody/venv/lib
+includedir=/home/sourabh-singh/Data Science/Data-Science-Journey/Python-for-everybody/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
