@@ -1,4 +1,4 @@
-# Day1 - [04/05/2025]
+# Day 3 - [04/05/2025]
 ## Tasks Completed
     - Completed Functions videos.
     - Completed 4.6 exercise of Functions.

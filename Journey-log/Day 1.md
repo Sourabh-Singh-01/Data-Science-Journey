@@ -1,4 +1,4 @@
-# Day1 - [02/05/2025]
+# Day 1 - [02/05/2025]
 ## Tasks Completed
     - Installed Anaconda.
     - Created Github Repo and Organized the folder structure.

@@ -1,4 +1,4 @@
-# Day1 - [03/05/2025]
+# Day 2 - [03/05/2025]
 ## Tasks Completed
     - Completed conditionals videos.
     - Completed 3.1 and 3.2 exercise of Conditionals.
